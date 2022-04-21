@@ -182,9 +182,10 @@ img {
 
 #footer {
     font-size: xx-small;
+    background-color: black;
     padding-left: 8%;
     padding-right: 8%;
-    background-color: black;
+    color: white;
 }
 
 .flex {
